@@ -7,7 +7,7 @@
 
 ## 1️⃣ Fork 仓库
 
-将本仓库 Fork 到你的 GitHub 账户。
+将本仓库 Fork 到你的 GitHub 账户。..
 
 ## 2️⃣ 克隆到本地
 
